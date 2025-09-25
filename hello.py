@@ -14,6 +14,9 @@ def random_function_two():
 def random_function_three():
     pass
 
+def random_function_four():
+    pass
+
 
 if __name__ == "__main__":
     say_hello()
